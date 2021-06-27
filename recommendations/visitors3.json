@@ -1,0 +1,918 @@
+[
+    {
+        "id_vis": 0,
+        "name_vis": "TBD",
+        "processed": false,
+        "art": [
+            {
+                "id_art": 1,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 1,
+                "excitement": 4,
+                "percieved time": 4,
+                "clicks": 19
+            },
+            {
+                "id_art": 2,
+                "name_art": "TBD",
+                "joy": 1,
+                "inpiration": 2,
+                "excitement": 4,
+                "percieved time": 4,
+                "clicks": 9
+            },
+            {
+                "id_art": 3,
+                "name_art": "TBD",
+                "joy": 2,
+                "inpiration": 1,
+                "excitement": 5,
+                "percieved time": 4,
+                "clicks": 11
+            },
+            {
+                "id_art": 4,
+                "name_art": "TBD",
+                "joy": 1,
+                "inpiration": 2,
+                "excitement": 3,
+                "percieved time": 1,
+                "clicks": 14
+            }
+        ]
+    },
+    {
+        "id_vis": 1,
+        "name_vis": "TBD",
+        "processed": true,
+        "art": [
+            {
+                "id_art": 1,
+                "name_art": "TBD",
+                "joy": 2,
+                "inpiration": 5,
+                "excitement": 3,
+                "percieved time": 4,
+                "clicks": 14
+            },
+            {
+                "id_art": 2,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 3,
+                "excitement": 4,
+                "percieved time": 2,
+                "clicks": 10
+            },
+            {
+                "id_art": 3,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 2,
+                "excitement": 4,
+                "percieved time": 2,
+                "clicks": 15
+            },
+            {
+                "id_art": 4,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 4,
+                "excitement": 1,
+                "percieved time": 5,
+                "clicks": 1
+            },
+            {
+                "id_art": 5,
+                "name_art": "TBD",
+                "joy": 2,
+                "inpiration": 2,
+                "excitement": 2,
+                "percieved time": 3,
+                "clicks": 18
+            },
+            {
+                "id_art": 6,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 2,
+                "excitement": 3,
+                "percieved time": 5,
+                "clicks": 15
+            },
+            {
+                "id_art": 7,
+                "name_art": "TBD",
+                "joy": 4,
+                "inpiration": 4,
+                "excitement": 1,
+                "percieved time": 5,
+                "clicks": 11
+            },
+            {
+                "id_art": 8,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 2,
+                "excitement": 2,
+                "percieved time": 4,
+                "clicks": 8
+            },
+            {
+                "id_art": 9,
+                "name_art": "TBD",
+                "joy": 1,
+                "inpiration": 1,
+                "excitement": 4,
+                "percieved time": 3,
+                "clicks": 20
+            },
+            {
+                "id_art": 10,
+                "name_art": "TBD",
+                "joy": 1,
+                "inpiration": 5,
+                "excitement": 1,
+                "percieved time": 2,
+                "clicks": 13
+            }
+        ]
+    },
+    {
+        "id_vis": 2,
+        "name_vis": "TBD",
+        "processed": true,
+        "art": [
+            {
+                "id_art": 1,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 3,
+                "excitement": 5,
+                "percieved time": 2,
+                "clicks": 4
+            },
+            {
+                "id_art": 2,
+                "name_art": "TBD",
+                "joy": 1,
+                "inpiration": 4,
+                "excitement": 2,
+                "percieved time": 2,
+                "clicks": 12
+            },
+            {
+                "id_art": 3,
+                "name_art": "TBD",
+                "joy": 4,
+                "inpiration": 4,
+                "excitement": 4,
+                "percieved time": 2,
+                "clicks": 9
+            },
+            {
+                "id_art": 4,
+                "name_art": "TBD",
+                "joy": 2,
+                "inpiration": 5,
+                "excitement": 5,
+                "percieved time": 2,
+                "clicks": 4
+            },
+            {
+                "id_art": 5,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 4,
+                "excitement": 3,
+                "percieved time": 2,
+                "clicks": 6
+            },
+            {
+                "id_art": 6,
+                "name_art": "TBD",
+                "joy": 2,
+                "inpiration": 4,
+                "excitement": 3,
+                "percieved time": 3,
+                "clicks": 14
+            },
+            {
+                "id_art": 7,
+                "name_art": "TBD",
+                "joy": 2,
+                "inpiration": 1,
+                "excitement": 5,
+                "percieved time": 1,
+                "clicks": 11
+            },
+            {
+                "id_art": 8,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 2,
+                "excitement": 1,
+                "percieved time": 3,
+                "clicks": 15
+            },
+            {
+                "id_art": 9,
+                "name_art": "TBD",
+                "joy": 4,
+                "inpiration": 5,
+                "excitement": 2,
+                "percieved time": 4,
+                "clicks": 16
+            },
+            {
+                "id_art": 10,
+                "name_art": "TBD",
+                "joy": 2,
+                "inpiration": 5,
+                "excitement": 3,
+                "percieved time": 5,
+                "clicks": 16
+            }
+        ]
+    },
+    {
+        "id_vis": 3,
+        "name_vis": "TBD",
+        "processed": true,
+        "art": [
+            {
+                "id_art": 1,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 4,
+                "excitement": 1,
+                "percieved time": 2,
+                "clicks": 16
+            },
+            {
+                "id_art": 2,
+                "name_art": "TBD",
+                "joy": 4,
+                "inpiration": 4,
+                "excitement": 2,
+                "percieved time": 4,
+                "clicks": 18
+            },
+            {
+                "id_art": 3,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 3,
+                "excitement": 5,
+                "percieved time": 4,
+                "clicks": 16
+            },
+            {
+                "id_art": 4,
+                "name_art": "TBD",
+                "joy": 2,
+                "inpiration": 5,
+                "excitement": 4,
+                "percieved time": 1,
+                "clicks": 14
+            },
+            {
+                "id_art": 5,
+                "name_art": "TBD",
+                "joy": 1,
+                "inpiration": 1,
+                "excitement": 4,
+                "percieved time": 5,
+                "clicks": 3
+            },
+            {
+                "id_art": 6,
+                "name_art": "TBD",
+                "joy": 1,
+                "inpiration": 3,
+                "excitement": 1,
+                "percieved time": 2,
+                "clicks": 4
+            },
+            {
+                "id_art": 7,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 4,
+                "excitement": 4,
+                "percieved time": 2,
+                "clicks": 15
+            },
+            {
+                "id_art": 8,
+                "name_art": "TBD",
+                "joy": 4,
+                "inpiration": 5,
+                "excitement": 4,
+                "percieved time": 3,
+                "clicks": 9
+            },
+            {
+                "id_art": 9,
+                "name_art": "TBD",
+                "joy": 4,
+                "inpiration": 4,
+                "excitement": 3,
+                "percieved time": 5,
+                "clicks": 17
+            },
+            {
+                "id_art": 10,
+                "name_art": "TBD",
+                "joy": 2,
+                "inpiration": 2,
+                "excitement": 3,
+                "percieved time": 5,
+                "clicks": 2
+            }
+        ]
+    },
+    {
+        "id_vis": 4,
+        "name_vis": "TBD",
+        "processed": true,
+        "art": [
+            {
+                "id_art": 1,
+                "name_art": "TBD",
+                "joy": 2,
+                "inpiration": 5,
+                "excitement": 5,
+                "percieved time": 4,
+                "clicks": 1
+            },
+            {
+                "id_art": 2,
+                "name_art": "TBD",
+                "joy": 1,
+                "inpiration": 3,
+                "excitement": 4,
+                "percieved time": 2,
+                "clicks": 10
+            },
+            {
+                "id_art": 3,
+                "name_art": "TBD",
+                "joy": 1,
+                "inpiration": 1,
+                "excitement": 5,
+                "percieved time": 5,
+                "clicks": 4
+            },
+            {
+                "id_art": 4,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 2,
+                "excitement": 4,
+                "percieved time": 2,
+                "clicks": 12
+            },
+            {
+                "id_art": 5,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 4,
+                "excitement": 2,
+                "percieved time": 3,
+                "clicks": 6
+            },
+            {
+                "id_art": 6,
+                "name_art": "TBD",
+                "joy": 1,
+                "inpiration": 5,
+                "excitement": 2,
+                "percieved time": 4,
+                "clicks": 7
+            },
+            {
+                "id_art": 7,
+                "name_art": "TBD",
+                "joy": 1,
+                "inpiration": 3,
+                "excitement": 4,
+                "percieved time": 5,
+                "clicks": 14
+            },
+            {
+                "id_art": 8,
+                "name_art": "TBD",
+                "joy": 4,
+                "inpiration": 5,
+                "excitement": 2,
+                "percieved time": 3,
+                "clicks": 20
+            },
+            {
+                "id_art": 9,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 1,
+                "excitement": 1,
+                "percieved time": 2,
+                "clicks": 14
+            },
+            {
+                "id_art": 10,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 4,
+                "excitement": 4,
+                "percieved time": 2,
+                "clicks": 3
+            }
+        ]
+    },
+    {
+        "id_vis": 5,
+        "name_vis": "TBD",
+        "processed": true,
+        "art": [
+            {
+                "id_art": 1,
+                "name_art": "TBD",
+                "joy": 4,
+                "inpiration": 1,
+                "excitement": 1,
+                "percieved time": 3,
+                "clicks": 9
+            },
+            {
+                "id_art": 2,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 4,
+                "excitement": 4,
+                "percieved time": 2,
+                "clicks": 10
+            },
+            {
+                "id_art": 3,
+                "name_art": "TBD",
+                "joy": 4,
+                "inpiration": 3,
+                "excitement": 5,
+                "percieved time": 4,
+                "clicks": 17
+            },
+            {
+                "id_art": 4,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 4,
+                "excitement": 4,
+                "percieved time": 3,
+                "clicks": 12
+            },
+            {
+                "id_art": 5,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 4,
+                "excitement": 4,
+                "percieved time": 4,
+                "clicks": 19
+            },
+            {
+                "id_art": 6,
+                "name_art": "TBD",
+                "joy": 4,
+                "inpiration": 1,
+                "excitement": 5,
+                "percieved time": 3,
+                "clicks": 13
+            },
+            {
+                "id_art": 7,
+                "name_art": "TBD",
+                "joy": 2,
+                "inpiration": 5,
+                "excitement": 4,
+                "percieved time": 5,
+                "clicks": 3
+            },
+            {
+                "id_art": 8,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 3,
+                "excitement": 1,
+                "percieved time": 5,
+                "clicks": 11
+            },
+            {
+                "id_art": 9,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 1,
+                "excitement": 4,
+                "percieved time": 5,
+                "clicks": 12
+            },
+            {
+                "id_art": 10,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 5,
+                "excitement": 2,
+                "percieved time": 2,
+                "clicks": 6
+            }
+        ]
+    },
+    {
+        "id_vis": 6,
+        "name_vis": "TBD",
+        "processed": true,
+        "art": [
+            {
+                "id_art": 1,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 1,
+                "excitement": 5,
+                "percieved time": 1,
+                "clicks": 8
+            },
+            {
+                "id_art": 2,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 1,
+                "excitement": 4,
+                "percieved time": 2,
+                "clicks": 19
+            },
+            {
+                "id_art": 3,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 4,
+                "excitement": 5,
+                "percieved time": 1,
+                "clicks": 13
+            },
+            {
+                "id_art": 4,
+                "name_art": "TBD",
+                "joy": 2,
+                "inpiration": 3,
+                "excitement": 5,
+                "percieved time": 2,
+                "clicks": 17
+            },
+            {
+                "id_art": 5,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 3,
+                "excitement": 1,
+                "percieved time": 5,
+                "clicks": 2
+            },
+            {
+                "id_art": 6,
+                "name_art": "TBD",
+                "joy": 1,
+                "inpiration": 5,
+                "excitement": 3,
+                "percieved time": 4,
+                "clicks": 11
+            },
+            {
+                "id_art": 7,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 2,
+                "excitement": 2,
+                "percieved time": 1,
+                "clicks": 20
+            },
+            {
+                "id_art": 8,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 2,
+                "excitement": 1,
+                "percieved time": 5,
+                "clicks": 17
+            },
+            {
+                "id_art": 9,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 1,
+                "excitement": 4,
+                "percieved time": 4,
+                "clicks": 19
+            },
+            {
+                "id_art": 10,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 1,
+                "excitement": 2,
+                "percieved time": 4,
+                "clicks": 16
+            }
+        ]
+    },
+    {
+        "id_vis": 7,
+        "name_vis": "TBD",
+        "processed": true,
+        "art": [
+            {
+                "id_art": 1,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 4,
+                "excitement": 4,
+                "percieved time": 5,
+                "clicks": 6
+            },
+            {
+                "id_art": 2,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 4,
+                "excitement": 3,
+                "percieved time": 5,
+                "clicks": 17
+            },
+            {
+                "id_art": 3,
+                "name_art": "TBD",
+                "joy": 4,
+                "inpiration": 4,
+                "excitement": 2,
+                "percieved time": 1,
+                "clicks": 14
+            },
+            {
+                "id_art": 4,
+                "name_art": "TBD",
+                "joy": 2,
+                "inpiration": 1,
+                "excitement": 2,
+                "percieved time": 2,
+                "clicks": 19
+            },
+            {
+                "id_art": 5,
+                "name_art": "TBD",
+                "joy": 4,
+                "inpiration": 3,
+                "excitement": 5,
+                "percieved time": 4,
+                "clicks": 2
+            },
+            {
+                "id_art": 6,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 1,
+                "excitement": 2,
+                "percieved time": 3,
+                "clicks": 8
+            },
+            {
+                "id_art": 7,
+                "name_art": "TBD",
+                "joy": 1,
+                "inpiration": 5,
+                "excitement": 2,
+                "percieved time": 1,
+                "clicks": 19
+            },
+            {
+                "id_art": 8,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 2,
+                "excitement": 3,
+                "percieved time": 1,
+                "clicks": 13
+            },
+            {
+                "id_art": 9,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 4,
+                "excitement": 1,
+                "percieved time": 3,
+                "clicks": 7
+            },
+            {
+                "id_art": 10,
+                "name_art": "TBD",
+                "joy": 4,
+                "inpiration": 2,
+                "excitement": 2,
+                "percieved time": 4,
+                "clicks": 15
+            }
+        ]
+    },
+    {
+        "id_vis": 8,
+        "name_vis": "TBD",
+        "processed": true,
+        "art": [
+            {
+                "id_art": 1,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 1,
+                "excitement": 2,
+                "percieved time": 2,
+                "clicks": 19
+            },
+            {
+                "id_art": 2,
+                "name_art": "TBD",
+                "joy": 4,
+                "inpiration": 2,
+                "excitement": 5,
+                "percieved time": 4,
+                "clicks": 4
+            },
+            {
+                "id_art": 3,
+                "name_art": "TBD",
+                "joy": 4,
+                "inpiration": 1,
+                "excitement": 2,
+                "percieved time": 1,
+                "clicks": 14
+            },
+            {
+                "id_art": 4,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 3,
+                "excitement": 5,
+                "percieved time": 1,
+                "clicks": 12
+            },
+            {
+                "id_art": 5,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 5,
+                "excitement": 4,
+                "percieved time": 5,
+                "clicks": 8
+            },
+            {
+                "id_art": 6,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 3,
+                "excitement": 1,
+                "percieved time": 2,
+                "clicks": 13
+            },
+            {
+                "id_art": 7,
+                "name_art": "TBD",
+                "joy": 2,
+                "inpiration": 1,
+                "excitement": 5,
+                "percieved time": 4,
+                "clicks": 4
+            },
+            {
+                "id_art": 8,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 4,
+                "excitement": 5,
+                "percieved time": 2,
+                "clicks": 10
+            },
+            {
+                "id_art": 9,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 1,
+                "excitement": 2,
+                "percieved time": 5,
+                "clicks": 18
+            },
+            {
+                "id_art": 10,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 1,
+                "excitement": 1,
+                "percieved time": 4,
+                "clicks": 2
+            }
+        ]
+    },
+    {
+        "id_vis": 9,
+        "name_vis": "TBD",
+        "processed": true,
+        "art": [
+            {
+                "id_art": 1,
+                "name_art": "TBD",
+                "joy": 1,
+                "inpiration": 4,
+                "excitement": 3,
+                "percieved time": 2,
+                "clicks": 2
+            },
+            {
+                "id_art": 2,
+                "name_art": "TBD",
+                "joy": 3,
+                "inpiration": 3,
+                "excitement": 4,
+                "percieved time": 2,
+                "clicks": 1
+            },
+            {
+                "id_art": 3,
+                "name_art": "TBD",
+                "joy": 2,
+                "inpiration": 2,
+                "excitement": 3,
+                "percieved time": 2,
+                "clicks": 8
+            },
+            {
+                "id_art": 4,
+                "name_art": "TBD",
+                "joy": 2,
+                "inpiration": 4,
+                "excitement": 5,
+                "percieved time": 5,
+                "clicks": 19
+            },
+            {
+                "id_art": 5,
+                "name_art": "TBD",
+                "joy": 5,
+                "inpiration": 4,
+                "excitement": 5,
+                "percieved time": 1,
+                "clicks": 5
+            },
+            {
+                "id_art": 6,
+                "name_art": "TBD",
+                "joy": 1,
+                "inpiration": 1,
+                "excitement": 1,
+                "percieved time": 1,
+                "clicks": 6
+            },
+            {
+                "id_art": 7,
+                "name_art": "TBD",
+                "joy": 1,
+                "inpiration": 4,
+                "excitement": 1,
+                "percieved time": 1,
+                "clicks": 14
+            },
+            {
+                "id_art": 8,
+                "name_art": "TBD",
+                "joy": 2,
+                "inpiration": 5,
+                "excitement": 4,
+                "percieved time": 1,
+                "clicks": 18
+            },
+            {
+                "id_art": 9,
+                "name_art": "TBD",
+                "joy": 2,
+                "inpiration": 1,
+                "excitement": 4,
+                "percieved time": 5,
+                "clicks": 15
+            },
+            {
+                "id_art": 10,
+                "name_art": "TBD",
+                "joy": 4,
+                "inpiration": 3,
+                "excitement": 2,
+                "percieved time": 1,
+                "clicks": 13
+            }
+        ]
+    }
+]
